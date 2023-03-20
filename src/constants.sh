@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+# Reserved codes = 1, 2, 126, 127, 128, 128+n, 130, 255\*
+RESOLVED=0
+VAR_EXPORT=3
+DOT_REPO_NOT_FOUND=4
+DOT_DIR_NOT_FOUND=5
+GIT_NOT_FOUND=6
